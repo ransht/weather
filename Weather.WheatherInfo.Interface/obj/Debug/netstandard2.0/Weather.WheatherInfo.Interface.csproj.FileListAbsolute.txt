@@ -1,0 +1,7 @@
+C:\Users\Ran\Source\Repos\Weather\Weather.WheatherInfo.Interface\bin\Debug\netstandard2.0\Weather.WheatherInfo.Interface.deps.json
+C:\Users\Ran\Source\Repos\Weather\Weather.WheatherInfo.Interface\bin\Debug\netstandard2.0\Weather.WheatherInfo.Interface.dll
+C:\Users\Ran\Source\Repos\Weather\Weather.WheatherInfo.Interface\bin\Debug\netstandard2.0\Weather.WheatherInfo.Interface.pdb
+C:\Users\Ran\Source\Repos\Weather\Weather.WheatherInfo.Interface\obj\Debug\netstandard2.0\Weather.WheatherInfo.Interface.AssemblyInfoInputs.cache
+C:\Users\Ran\Source\Repos\Weather\Weather.WheatherInfo.Interface\obj\Debug\netstandard2.0\Weather.WheatherInfo.Interface.AssemblyInfo.cs
+C:\Users\Ran\Source\Repos\Weather\Weather.WheatherInfo.Interface\obj\Debug\netstandard2.0\Weather.WheatherInfo.Interface.dll
+C:\Users\Ran\Source\Repos\Weather\Weather.WheatherInfo.Interface\obj\Debug\netstandard2.0\Weather.WheatherInfo.Interface.pdb

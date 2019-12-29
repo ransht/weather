@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Weather.Common.DTOs\Weather.Common.DTOs.csproj" />
+    <ProjectReference Include="..\Weather.Common.Extentions\Weather.Common.Extentions.csproj" />
+    <ProjectReference Include="..\Weather.WheatherInfo.Interface\Weather.WheatherInfo.Interface.csproj" />
+  </ItemGroup>
+
+</Project>

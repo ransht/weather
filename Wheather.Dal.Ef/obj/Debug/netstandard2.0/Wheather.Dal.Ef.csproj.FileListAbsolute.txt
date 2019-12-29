@@ -1,0 +1,13 @@
+C:\Users\Ran\Source\Repos\Weather\Wheather.Dal.Ef\bin\Debug\netstandard2.0\Wheather.Dal.Ef.deps.json
+C:\Users\Ran\Source\Repos\Weather\Wheather.Dal.Ef\bin\Debug\netstandard2.0\Wheather.Dal.Ef.dll
+C:\Users\Ran\Source\Repos\Weather\Wheather.Dal.Ef\obj\Debug\netstandard2.0\Wheather.Dal.Ef.AssemblyInfoInputs.cache
+C:\Users\Ran\Source\Repos\Weather\Wheather.Dal.Ef\obj\Debug\netstandard2.0\Wheather.Dal.Ef.AssemblyInfo.cs
+C:\Users\Ran\Source\Repos\Weather\Wheather.Dal.Ef\obj\Debug\netstandard2.0\Wheather.Dal.Ef.csprojAssemblyReference.cache
+C:\Users\Ran\Source\Repos\Weather\Wheather.Dal.Ef\bin\Debug\netstandard2.0\Wheather.Dal.Ef.pdb
+C:\Users\Ran\Source\Repos\Weather\Wheather.Dal.Ef\bin\Debug\netstandard2.0\Wheather.Dal.Entities.dll
+C:\Users\Ran\Source\Repos\Weather\Wheather.Dal.Ef\bin\Debug\netstandard2.0\Wheather.Dal.Interface.dll
+C:\Users\Ran\Source\Repos\Weather\Wheather.Dal.Ef\bin\Debug\netstandard2.0\Wheather.Dal.Entities.pdb
+C:\Users\Ran\Source\Repos\Weather\Wheather.Dal.Ef\bin\Debug\netstandard2.0\Wheather.Dal.Interface.pdb
+C:\Users\Ran\Source\Repos\Weather\Wheather.Dal.Ef\obj\Debug\netstandard2.0\Wheather.Dal.Ef.csproj.CopyComplete
+C:\Users\Ran\Source\Repos\Weather\Wheather.Dal.Ef\obj\Debug\netstandard2.0\Wheather.Dal.Ef.dll
+C:\Users\Ran\Source\Repos\Weather\Wheather.Dal.Ef\obj\Debug\netstandard2.0\Wheather.Dal.Ef.pdb

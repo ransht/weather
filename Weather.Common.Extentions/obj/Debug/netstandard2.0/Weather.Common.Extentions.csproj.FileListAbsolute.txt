@@ -1,0 +1,8 @@
+C:\Users\Ran\Source\Repos\Weather\Weather.Common.Extentions\bin\Debug\netstandard2.0\Weather.Common.Extentions.deps.json
+C:\Users\Ran\Source\Repos\Weather\Weather.Common.Extentions\bin\Debug\netstandard2.0\Weather.Common.Extentions.dll
+C:\Users\Ran\Source\Repos\Weather\Weather.Common.Extentions\obj\Debug\netstandard2.0\Weather.Common.Extentions.csprojAssemblyReference.cache
+C:\Users\Ran\Source\Repos\Weather\Weather.Common.Extentions\obj\Debug\netstandard2.0\Weather.Common.Extentions.AssemblyInfoInputs.cache
+C:\Users\Ran\Source\Repos\Weather\Weather.Common.Extentions\obj\Debug\netstandard2.0\Weather.Common.Extentions.AssemblyInfo.cs
+C:\Users\Ran\Source\Repos\Weather\Weather.Common.Extentions\bin\Debug\netstandard2.0\Weather.Common.Extentions.pdb
+C:\Users\Ran\Source\Repos\Weather\Weather.Common.Extentions\obj\Debug\netstandard2.0\Weather.Common.Extentions.dll
+C:\Users\Ran\Source\Repos\Weather\Weather.Common.Extentions\obj\Debug\netstandard2.0\Weather.Common.Extentions.pdb

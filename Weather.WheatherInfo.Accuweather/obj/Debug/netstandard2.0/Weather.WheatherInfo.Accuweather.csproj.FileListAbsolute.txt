@@ -1,0 +1,15 @@
+C:\Users\Ran\Source\Repos\Weather\Weather.WheatherInfo.Accuweather\bin\Debug\netstandard2.0\Weather.WheatherInfo.Accuweather.deps.json
+C:\Users\Ran\Source\Repos\Weather\Weather.WheatherInfo.Accuweather\bin\Debug\netstandard2.0\Weather.WheatherInfo.Accuweather.dll
+C:\Users\Ran\Source\Repos\Weather\Weather.WheatherInfo.Accuweather\bin\Debug\netstandard2.0\Weather.WheatherInfo.Accuweather.pdb
+C:\Users\Ran\Source\Repos\Weather\Weather.WheatherInfo.Accuweather\obj\Debug\netstandard2.0\Weather.WheatherInfo.Accuweather.csprojAssemblyReference.cache
+C:\Users\Ran\Source\Repos\Weather\Weather.WheatherInfo.Accuweather\obj\Debug\netstandard2.0\Weather.WheatherInfo.Accuweather.AssemblyInfoInputs.cache
+C:\Users\Ran\Source\Repos\Weather\Weather.WheatherInfo.Accuweather\obj\Debug\netstandard2.0\Weather.WheatherInfo.Accuweather.AssemblyInfo.cs
+C:\Users\Ran\Source\Repos\Weather\Weather.WheatherInfo.Accuweather\obj\Debug\netstandard2.0\Weather.WheatherInfo.Accuweather.dll
+C:\Users\Ran\Source\Repos\Weather\Weather.WheatherInfo.Accuweather\obj\Debug\netstandard2.0\Weather.WheatherInfo.Accuweather.pdb
+C:\Users\Ran\Source\Repos\Weather\Weather.WheatherInfo.Accuweather\bin\Debug\netstandard2.0\Weather.Common.DTOs.dll
+C:\Users\Ran\Source\Repos\Weather\Weather.WheatherInfo.Accuweather\bin\Debug\netstandard2.0\Weather.Common.Extentions.dll
+C:\Users\Ran\Source\Repos\Weather\Weather.WheatherInfo.Accuweather\bin\Debug\netstandard2.0\Weather.WheatherInfo.Interface.dll
+C:\Users\Ran\Source\Repos\Weather\Weather.WheatherInfo.Accuweather\bin\Debug\netstandard2.0\Weather.Common.DTOs.pdb
+C:\Users\Ran\Source\Repos\Weather\Weather.WheatherInfo.Accuweather\bin\Debug\netstandard2.0\Weather.Common.Extentions.pdb
+C:\Users\Ran\Source\Repos\Weather\Weather.WheatherInfo.Accuweather\bin\Debug\netstandard2.0\Weather.WheatherInfo.Interface.pdb
+C:\Users\Ran\Source\Repos\Weather\Weather.WheatherInfo.Accuweather\obj\Debug\netstandard2.0\Weather.WheatherInfo.Accuweather.csproj.CopyComplete

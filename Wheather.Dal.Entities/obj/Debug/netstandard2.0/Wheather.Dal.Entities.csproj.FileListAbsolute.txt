@@ -1,0 +1,7 @@
+C:\Users\Ran\Source\Repos\Weather\Wheather.Dal.Entities\bin\Debug\netstandard2.0\Wheather.Dal.Entities.deps.json
+C:\Users\Ran\Source\Repos\Weather\Wheather.Dal.Entities\bin\Debug\netstandard2.0\Wheather.Dal.Entities.dll
+C:\Users\Ran\Source\Repos\Weather\Wheather.Dal.Entities\bin\Debug\netstandard2.0\Wheather.Dal.Entities.pdb
+C:\Users\Ran\Source\Repos\Weather\Wheather.Dal.Entities\obj\Debug\netstandard2.0\Wheather.Dal.Entities.AssemblyInfoInputs.cache
+C:\Users\Ran\Source\Repos\Weather\Wheather.Dal.Entities\obj\Debug\netstandard2.0\Wheather.Dal.Entities.AssemblyInfo.cs
+C:\Users\Ran\Source\Repos\Weather\Wheather.Dal.Entities\obj\Debug\netstandard2.0\Wheather.Dal.Entities.dll
+C:\Users\Ran\Source\Repos\Weather\Wheather.Dal.Entities\obj\Debug\netstandard2.0\Wheather.Dal.Entities.pdb

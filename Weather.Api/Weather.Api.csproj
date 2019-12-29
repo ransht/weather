@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Weather.Common.DTOs\Weather.Common.DTOs.csproj" />
+    <ProjectReference Include="..\Weather.WheatherInfo.Accuweather\Weather.WheatherInfo.Accuweather.csproj" />
+    <ProjectReference Include="..\Weather.WheatherInfo.Interface\Weather.WheatherInfo.Interface.csproj" />
+    <ProjectReference Include="..\Wheather.Dal.Ef\Wheather.Dal.Ef.csproj" />
+    <ProjectReference Include="..\Wheather.Dal.Interface\Wheather.Dal.Interface.csproj" />
+  </ItemGroup>
+
+</Project>

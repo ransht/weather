@@ -1,0 +1,11 @@
+C:\Users\Ran\Source\Repos\Weather\Wheather.Dal.Interface\bin\Debug\netstandard2.0\Wheather.Dal.Interface.deps.json
+C:\Users\Ran\Source\Repos\Weather\Wheather.Dal.Interface\bin\Debug\netstandard2.0\Wheather.Dal.Interface.dll
+C:\Users\Ran\Source\Repos\Weather\Wheather.Dal.Interface\bin\Debug\netstandard2.0\Wheather.Dal.Interface.pdb
+C:\Users\Ran\Source\Repos\Weather\Wheather.Dal.Interface\bin\Debug\netstandard2.0\Wheather.Dal.Entities.dll
+C:\Users\Ran\Source\Repos\Weather\Wheather.Dal.Interface\bin\Debug\netstandard2.0\Wheather.Dal.Entities.pdb
+C:\Users\Ran\Source\Repos\Weather\Wheather.Dal.Interface\obj\Debug\netstandard2.0\Wheather.Dal.Interface.csprojAssemblyReference.cache
+C:\Users\Ran\Source\Repos\Weather\Wheather.Dal.Interface\obj\Debug\netstandard2.0\Wheather.Dal.Interface.AssemblyInfoInputs.cache
+C:\Users\Ran\Source\Repos\Weather\Wheather.Dal.Interface\obj\Debug\netstandard2.0\Wheather.Dal.Interface.AssemblyInfo.cs
+C:\Users\Ran\Source\Repos\Weather\Wheather.Dal.Interface\obj\Debug\netstandard2.0\Wheather.Dal.Interface.csproj.CopyComplete
+C:\Users\Ran\Source\Repos\Weather\Wheather.Dal.Interface\obj\Debug\netstandard2.0\Wheather.Dal.Interface.dll
+C:\Users\Ran\Source\Repos\Weather\Wheather.Dal.Interface\obj\Debug\netstandard2.0\Wheather.Dal.Interface.pdb

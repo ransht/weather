@@ -1,0 +1,7 @@
+C:\Users\Ran\Source\Repos\Weather\Weather.Common.DTOs\bin\Debug\netstandard2.0\Weather.Common.DTOs.deps.json
+C:\Users\Ran\Source\Repos\Weather\Weather.Common.DTOs\bin\Debug\netstandard2.0\Weather.Common.DTOs.dll
+C:\Users\Ran\Source\Repos\Weather\Weather.Common.DTOs\bin\Debug\netstandard2.0\Weather.Common.DTOs.pdb
+C:\Users\Ran\Source\Repos\Weather\Weather.Common.DTOs\obj\Debug\netstandard2.0\Weather.Common.DTOs.AssemblyInfoInputs.cache
+C:\Users\Ran\Source\Repos\Weather\Weather.Common.DTOs\obj\Debug\netstandard2.0\Weather.Common.DTOs.AssemblyInfo.cs
+C:\Users\Ran\Source\Repos\Weather\Weather.Common.DTOs\obj\Debug\netstandard2.0\Weather.Common.DTOs.dll
+C:\Users\Ran\Source\Repos\Weather\Weather.Common.DTOs\obj\Debug\netstandard2.0\Weather.Common.DTOs.pdb
